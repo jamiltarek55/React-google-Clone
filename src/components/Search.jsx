@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { useDebounce } from 'use-debounce';
-
 import { useStateContext } from '../contexts/StateContextProvider';
 import { Links } from './Links';
 
